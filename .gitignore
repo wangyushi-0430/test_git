@@ -1,0 +1,8 @@
+output/
+*.h5
+*.dat
+*.npy
+__pycache__/
+*.pyc
+*.o
+*.out
